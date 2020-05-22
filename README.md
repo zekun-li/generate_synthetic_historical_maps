@@ -4,4 +4,4 @@
 - For generating synthetic historical maps with trained model, run sytle_convert.py\
 
 Ackowlegment:
-The code is adapted from here [https://github.com/tjwei/GANotebooks/blob/master/CycleGAN-keras.ipynb]
+The code is adapted from [here](https://github.com/tjwei/GANotebooks/blob/master/CycleGAN-keras.ipynb)
