@@ -14,10 +14,10 @@ This demo provides two radio buttons to toggle between two views. The first view
 
 
 ## Pretrained Weights
-Weight files can be downloaded [here](https://github.com/tjwei/GANotebooks/blob/master/CycleGAN-keras.ipynb)
+Weight files can be downloaded [here](https://drive.google.com/drive/folders/1f7P6cUASkBoBte0UJnUPwVoU2QR2Pinu?usp=sharing)
 
 ## Generated Synthetic Historical Map Tiles
-Synthetic historical map tiles can be downloaded from Google Drive at [here](https://github.com/tjwei/GANotebooks/blob/master/CycleGAN-keras.ipynb)
+Synthetic historical map tiles of size 256x256 can be downloaded from Google Drive at [here](https://drive.google.com/file/d/1gFkFsvewoRFRIpGzEYfAXk3Q-ip6bevf/view?usp=sharing)(1.2G), and map tiles of size 728x728 can be downloaded from [here](https://drive.google.com/file/d/1XDm9qZEI-a8OWOPKkpjZx13JdJQJlv5-/view?usp=sharing) (3.5G)
 
-Ackowlegment:
+*Ackowlegment*:
 The code is adapted from [this](https://github.com/tjwei/GANotebooks/blob/master/CycleGAN-keras.ipynb) github repo.
