@@ -21,7 +21,9 @@ import time
 import pickle
 from matplotlib import pyplot as plt
 
+# open street map input tiles
 image_root_path = '/home/zekunl/lat52_Birmingham/'
+# output dir
 output_root_path = '/home/zekunl/pix2pix/cycleGAN/synthNoText/'
 
 
@@ -283,20 +285,15 @@ errCyc_sum = errGA_sum = errGB_sum = errDA_sum = errDB_sum = 0
 # for visualization only
 
 epoch = 0
-'''
+
 save_weights_dir = '/home/zekunl/pix2pix/cycleGAN/noText/save_weights/'
-###################3 load pretrained weights ##################
+################### load pretrained weights ##################
 netGA.load_weights(save_weights_dir + 'ep0iter1200_GA.hdf5')
 netGB.load_weights(save_weights_dir + 'ep0iter1200_GB.hdf5')
 netDA.load_weights(save_weights_dir + 'ep0iter1200_DA.hdf5')
 netDB.load_weights(save_weights_dir + 'ep0iter1200_DB.hdf5')
-'''
 
-save_weights_dir = '/home/zekunl/pix2pix/cycleGAN/withText/save_weights/'
-netGA.load_weights(save_weights_dir + 'ep0iter1500_GA.hdf5')
-netGB.load_weights(save_weights_dir + 'ep0iter1500_GB.hdf5')
-netDA.load_weights(save_weights_dir + 'ep0iter1500_DA.hdf5')
-netDB.load_weights(save_weights_dir + 'ep0iter1500_DB.hdf5')
+
 
 
 
