@@ -13,4 +13,4 @@ Weight files can be downloaded [here](https://github.com/tjwei/GANotebooks/blob/
 Synthetic historical map tiles can be downloaded from Google Drive at [here](https://github.com/tjwei/GANotebooks/blob/master/CycleGAN-keras.ipynb)
 
 Ackowlegment:
-The code is adapted from [here](https://github.com/tjwei/GANotebooks/blob/master/CycleGAN-keras.ipynb)
+The code is adapted from [this](https://github.com/tjwei/GANotebooks/blob/master/CycleGAN-keras.ipynb) github repo.
