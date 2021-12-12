@@ -1,6 +1,7 @@
 # Generate synthetic historical maps from OSM map tiles
 
-We use cycle-GAN to convert open street map (OSM) images into historical map style. The historical map dataset used for training is downloaded from National Library of Scotland ([NLS](https://maps.nls.uk/)) website. 
+This is the code repo for paper ["Synthetic Map Generation to Provide Unlimited Training Data
+for Historical Map Text Detection"](https://zekun-li.github.io/files/GEOAI_2021.pdf) We use cycle-GAN to convert open street map (OSM) images into historical map style. The historical map dataset used for training is downloaded from National Library of Scotland ([NLS](https://maps.nls.uk/)) website. 
 
 - For training, run cycleGAN-keras.py
 - For generating synthetic historical maps with trained model, run sytle_convert.py
