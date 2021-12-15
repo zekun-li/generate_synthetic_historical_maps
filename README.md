@@ -20,5 +20,17 @@ Weight files can be downloaded [here](https://drive.google.com/drive/folders/1f7
 ## Generated Synthetic Historical Map Tiles
 Synthetic historical map tiles of size 256x256 can be downloaded from Google Drive at [here](https://drive.google.com/file/d/1gFkFsvewoRFRIpGzEYfAXk3Q-ip6bevf/view?usp=sharing)(1.2G), and map tiles of size 728x728 can be downloaded from [here](https://drive.google.com/file/d/1XDm9qZEI-a8OWOPKkpjZx13JdJQJlv5-/view?usp=sharing) (3.5G)
 
+
+## Citation
+```
+@inproceedings{li2021synthetic,
+  title={Synthetic Map Generation to Provide Unlimited Training Data for Historical Map Text Detection},
+  author={Li, Zekun and Guan, Runyu and Yu, Qianmu and Chiang, Yao-Yi and Knoblock, Craig A},
+  booktitle={Proceedings of the 4th ACM SIGSPATIAL International Workshop on AI for Geographic Knowledge Discovery},
+  pages={17--26},
+  year={2021}
+}
+```
+
 *Ackowlegment*:
 The code is adapted from [this](https://github.com/tjwei/GANotebooks/blob/master/CycleGAN-keras.ipynb) github repo.
